@@ -1,0 +1,65 @@
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.reqform {
+	text-align: center;
+	border-style: outset;
+	border-radius: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+	background-color: white;
+	font-family: verdana;
+}
+
+button {
+	font-family: times new roman;
+	font-size: 20px;
+	padding: 10px 15px;
+	margin-bottom: 25px;
+	margin-top: 15px;
+	border-radius: 15px;
+	border-color: green;
+	background-color: lime;
+}
+
+p {
+	font-family: verdana;
+	font-size: 16px;
+	padding: 20px;
+}
+
+.programme {
+	border-style: inset;
+	margin-top: 50px;
+	border-radius: 20px;
+	background-color: white;
+}
+
+h2 {
+	border-bottom: solid black;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+
+#box {
+	padding: 10px;
+}
+
+input {
+	font-size: 16px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	border-radius: 5px;
+}
+
+.link {
+	text-align: center;
+	margin: 15px;
+}
